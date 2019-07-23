@@ -9,7 +9,7 @@
 00004 - Medium Enclosure AUX circuit Board Bracket<br>
 00005 - Medium Enclosure LCD Display Cover<br>
 00006 - Medium Enclosure Main Support (Arduino Mega)<br>
-00007 - Medium Enclosure End Cover Outer 1 (Arduino Mega)<br>
+00007 - Medium Enclosure End Cover Outer 1 (Arduino Mega) [Possibly the same as 00002]<br>
 00008 - Medium Enclosure End Cover Inner 1 (Arduino Mega)<br>
 00009 - Beam Bracket End Cap<br>
 00010 - Beam Bracket Sensor Base Outer<br>
