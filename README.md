@@ -29,8 +29,19 @@
 00024 - Bus Bar Inspection Tool Bracket Power Supply Bracket<br>
 00025 - Bus Bar Inspection Tool Servo Laser Bracket<br>
 00026 - Bus Bar Inspection Tool Ultrasonic Cone<br>
-00027 - <br>
-00028 - <br>
+00027 - Main Controller Main Bracket<br>
+00028 - Main Controller LCD Cover<br>
+00029 - Main Controller Outer Cable Bracket<br>
+00030 - Main Controller Accessory Bracket<br>
+00031 - Main Controller Inner Cable Bracket<br>
+00032 - <br>
+00033 - Serial Recorder Main Bracket<br>
+00034 - Serial Recorder Outer Cable Bracket<br>
+00035 - Serial Recorder Inner Cable Bracket<br>
+00036 - Serial Recorder Accessory Bracket<br>
+00037 - <br>
+
+
 
 
 
